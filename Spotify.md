@@ -12,6 +12,6 @@
 
 5. 安装完成，进入并找到 `pwsh.exe`，双击打开
 
-6. 进入 spicetify 官网：https://spicetify.app，按照流程就像安装即可
+6. 进入 spicetify 官网：https://spicetify.app/，按照流程安装即可
 
    

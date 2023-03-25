@@ -16,4 +16,5 @@
 
 6. 按照流程安装即可
 
-   
+
+> 请注意：Spotify自动更新后，UI会失效，需要重新进入 spicetify 官网执行一次 Powershell (pre-built binary) 的命令，但以前已经下载过的主题和插件会保留，无需重复下载。

@@ -1,6 +1,6 @@
 # Spotify UI
 
-1. 点击 windows 的开始菜单，输入 powershell 并打开
+1. 点击 windows 的开始菜单，输入 `powershell` 并打开
 
 2. 查看 posershell 版本：`$PSVersionTable`
 
